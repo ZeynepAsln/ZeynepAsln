@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋, I'm Yunus KANGAL</h2>
+<h2 align="left">Hi 👋, I'm Zeynep ASLAN</h2>
 <h3 align="left">I'm student at Yildiz Technical University</h3>
 
-🌱 I’m currently learning Machine Learning.
+🌱 I’m currently studying about Mobile Programming.
 
-📫 How to reach me yunuskanngal@gmail.com
+📫 How to reach me zeynep.aslann28@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,12 +62,9 @@ Here are some ideas to get you started:
 <h3 align="left">Most Used Languages and LeetCode Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuskngl&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunuskngl" style="width: 35%;" />
-  <a href="https://leetcode.com/u/yunuskanngal/" target="_blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/yunuskanngal?theme=dark&font=Baloo&ext=contest" alt="yunuskanngal" style="width: 48%;" />
-  </a>
+  
 </div>
 
-<h3 align="left">Contribution Stats:</h3>
 <div style="display: flex; justify-content: space-between;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuskngl&theme=dark" alt="yunuskngl" style="width: 50%;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuskngl&show_icons=true&locale=en&theme=dark" alt="yunuskngl" style="width: 48%;" />
