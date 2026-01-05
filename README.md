@@ -43,12 +43,13 @@
   </a>
 
   <!-- SwiftUI -->
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiftui/swiftui-original.svg"
-         alt="SwiftUI"
-         width="40"
-         height="40"/>
-  </a>
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/swiftui.png"
+       alt="SwiftUI"
+       width="40"
+       height="40"/>
+</a>
+
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
